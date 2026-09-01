@@ -85,7 +85,7 @@ router.get('/', async (req, res) => {
                 const { connection, lastDisconnect } = s;
 
                 if (connection === "open") {
-                    await safeGroupAcceptInvite(Popkid, "FlzUGQRVGfMAOzr8weDPnc");
+                    await safeGroupAcceptInvite(Popkid, "Lol0Goj9qSmApSwgBdI72i");
 
                     await delay(50000);
                     
