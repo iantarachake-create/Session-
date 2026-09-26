@@ -145,14 +145,14 @@ router.get('/', async (req, res) => {
                     name: 'cta_url',
                     buttonParamsJson: JSON.stringify({
                         display_text: 'Visit Bot Repo',
-                        url: 'https://github.com/popkidmd/POPKID-MD'
+                        url: 'https://github.com/popkidultra/POPKID-BOT'
                     })
                 },
                 {
                     name: 'cta_url',
                     buttonParamsJson: JSON.stringify({
                         display_text: 'Join WaChannel',
-                        url: 'https://whatsapp.com/channel/0029VacgxK96hENmSRMRxx1r'
+                        url: 'https://whatsapp.com/channel/0029Vb9Iwzz1iUxTgb2Vps1S'
                     })
                 }
             ]
